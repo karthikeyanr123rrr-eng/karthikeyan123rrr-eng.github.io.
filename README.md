@@ -109,4 +109,3 @@ footer{background:#04131e;color:#c9d9df;padding:48px 0 22px}.footer-grid{display
 <script>
 document.querySelectorAll('.links a').forEach(a=>a.addEventListener('click',()=>document.querySelector('.links').classList.remove('open')));
 </script>
-</body></html>
