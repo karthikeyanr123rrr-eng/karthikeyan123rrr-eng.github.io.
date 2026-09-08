@@ -110,3 +110,9 @@ footer{background:#04131e;color:#c9d9df;padding:48px 0 22px}.footer-grid{display
 document.querySelectorAll('.links a').forEach(a=>a.addEventListener('click',()=>document.querySelector('.links').classList.remove('open')));
 </script>
 </body></html>
+<div class="gallery-item" style="grid-row:span 2; position:relative;">
+  <img src="images/top-polymers-india.jpg" 
+       alt="Top Polymers Manufacturers in India - polymer pellets" 
+       style="width:100%; height:100%; object-fit:cover; display:block; border-radius:14px;">
+  <span>Top Polymers Manufacturers in India — images/top-polymers-india.jpg</span>
+</div>
