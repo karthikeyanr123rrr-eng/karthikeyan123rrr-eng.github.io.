@@ -116,3 +116,4 @@ document.querySelectorAll('.links a').forEach(a=>a.addEventListener('click',()=>
        style="width:100%; height:100%; object-fit:cover; display:block; border-radius:14px;">
   <span>Top Polymers Manufacturers in India — images/top-polymers-india.jpg</span>
 </div>
+<html><head><meta name="color-scheme" content="light dark"></head><body><pre style="word-wrap: break-word; white-space: pre-wrap;">Direct navigation not allowed</pre></body></html>
